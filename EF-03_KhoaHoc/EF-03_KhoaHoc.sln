@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-03_KhoaHoc", "EF-03_KhoaHoc.csproj", "{A1953111-C01C-454B-83D4-D53288FA17BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1953111-C01C-454B-83D4-D53288FA17BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1953111-C01C-454B-83D4-D53288FA17BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1953111-C01C-454B-83D4-D53288FA17BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1953111-C01C-454B-83D4-D53288FA17BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C268F0F2-7CE2-4137-933D-4A45EC350805}
+	EndGlobalSection
+EndGlobal
