@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLDPCFaf6jg8OsGoSBbdL+KLWGmrZQWVUmgcN9Tof/lduVhJi9ktaDdXui/bbLOoAsksBOotWfxgK4FLjVMDVA==",
+  "dgSpecHash": "8BawcTfv5bv5MDcEqnLU+VQS2wTsUvsj+VrlRrl57Y0bQjU50iXhZqrgw095ajaZpu8bquzT7tZSNnnr9XiT/w==",
   "success": true,
-  "projectFilePath": "D:\\LTS_Project\\EF-04_PhieuThu\\EF-04_PhieuThu.csproj",
+  "projectFilePath": "D:\\LTS_Project\\EF-Core\\EF-04_PhieuThu\\EF-04_PhieuThu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
